@@ -10,7 +10,7 @@ Pada project ini kami mencoba untuk membuat sebuah database pemain sepak bola di
         - Copy pada bagian linker "-lopengl32 -lfreeglut -lglu32"
     3. Masukan Source Code dibawah
     
-Catatan : pada program ini masih belum berhasil mengintegrasikan informasi yang diberikan oleh user menjadi chart, chart yang dimunculkan adalah data jyag dimasukan pada bagian "Program Display OpenGL", dimana pada grafik yang ditampilkan menggunakan sistem koordinat, dengan nilai 0.50 adalah titik pusat grafik.
+Catatan : pada program ini masih belum berhasil mengintegrasikan informasi yang diberikan oleh user menjadi chart, chart yang dimunculkan adalah data yang dimasukan pada bagian "Program Display OpenGL", dimana pada grafik yang ditampilkan menggunakan sistem koordinat, dengan nilai 0.50 adalah titik pusat grafik.
     
     
   
